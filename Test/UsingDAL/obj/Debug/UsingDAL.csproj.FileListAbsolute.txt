@@ -1,0 +1,7 @@
+D:\Работа\Пробы\Retail\Test\UsingDAL\bin\Debug\UsingDAL.exe.config
+D:\Работа\Пробы\Retail\Test\UsingDAL\bin\Debug\UsingDAL.exe
+D:\Работа\Пробы\Retail\Test\UsingDAL\bin\Debug\UsingDAL.pdb
+D:\Работа\Пробы\Retail\Test\UsingDAL\obj\Debug\UsingDAL.csprojAssemblyReference.cache
+D:\Работа\Пробы\Retail\Test\UsingDAL\obj\Debug\UsingDAL.csproj.CoreCompileInputs.cache
+D:\Работа\Пробы\Retail\Test\UsingDAL\obj\Debug\UsingDAL.exe
+D:\Работа\Пробы\Retail\Test\UsingDAL\obj\Debug\UsingDAL.pdb
